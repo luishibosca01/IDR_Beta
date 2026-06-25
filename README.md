@@ -1,1 +1,1 @@
-# IDR_Beta
+SMG - Sistema de Gestión (PWA)
